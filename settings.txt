@@ -1,0 +1,1 @@
+{'mode': 'whitelist', 'app_list': {'explorer.exe', 'Taskmgr.exe', 'ApplicationFrameHost.exe', 'ShellExperienceHost.exe', "pycharm64.exe"}, 'sites_list': {'Youtube'}}
